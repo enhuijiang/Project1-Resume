@@ -1,11 +1,17 @@
-.flex-box-container-1{
-    display: flex;
-    border: 1px solid black;
-
-    padding: 10px;
-    justify-content: space-around;
-    justify-content: space-around;
+body{
+    background-color: lightgoldenrodyellow;
+    
 }
-.flex-box-container-1 div{
-    padding: 10px;
+h1{
+    color: palevioletred;
+    display: flex;
+    justify-content: space-around;
+    text-shadow:3px 1px lightblue; 
+}
+strong{
+    text-indent:size; 
+}
+.CurrentData{
+    display: flex;
+    justify-content: flex-end;
 }
