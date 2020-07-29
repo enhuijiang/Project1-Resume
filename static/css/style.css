@@ -11,7 +11,3 @@ h1{
 strong{
     text-indent:size; 
 }
-.CurrentData{
-    display: flex;
-    justify-content: flex-end;
-}
